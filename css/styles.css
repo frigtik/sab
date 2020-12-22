@@ -1,0 +1,83 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Jura', sans-serif;
+  font-size: 5rem;
+}
+
+#title {
+  background-color: #28df99;
+  padding-bottom: 25px;
+}
+
+.title-img {
+  height: 300px;
+  width: 700px;
+}
+
+#home {
+  background-color: #99f3bd;
+  padding: 75px 100px 75px 100px;
+}
+
+.home-text {
+  margin-bottom: 0;
+  font-size: 1.5rem;
+}
+
+#products {
+  background-color: #d2f6c5;
+  padding-left: 150px;
+}
+
+.container-fluid {
+  padding-top: 5%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-bottom: 0;
+}
+
+.feature-box {
+  padding: 4%;
+}
+
+.product-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.product-img {
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+
+}
+
+#abtus {
+  background-color: #99f3bd;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.slogan {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+#footer {
+  background-color: #f6f7d4;
+  padding-top: 0;
+  padding-bottom: 30px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.footer-space {
+  padding-top: 50px;
+}
